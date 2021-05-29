@@ -1,3 +1,6 @@
 ---
-hello, welcome to slide 2
-use the arrow to go back
+layout: slide
+title: "Welcome to our second slide!"
+---
+Your text(hi, this took me a while to do!)
+Use the left arrow to go back!
